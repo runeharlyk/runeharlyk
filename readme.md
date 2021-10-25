@@ -8,15 +8,16 @@ Connect with me:
 
 
 Languages and Tools:
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="React" height="40"/>(https://reactjs.org/)
-<img src="https://iconape.com/wp-content/png_logo_vector/typescript.png" alt="Typescript" height="40"/>(https://www.typescriptlang.org/)
-<img src="https://mpng.subpng.com/20180425/jrw/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84e2a4242.1423638015246930701731.jpg" alt="Nodejs" height="40"/>(https://nodejs.org)
-<img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" alt="Arduino" height="40"/>(https://arduino.cc)
-<img src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" alt="Firebase" height="40"/>(https://firebase.google.com/)
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="PHP" height="40"/>(https://www.php.net/)
-<img src="http://assets.stickpng.com/images/5847f5bdcef1014c0b5e489c.png" alt="HTML5" height="40"/>(https://www.w3.org/html/)
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="JS" height="40"/>(https://www.javascript.com/)
-<img src="https://user-images.githubusercontent.com/36825685/138677045-0ecda5fe-67e8-4786-9b47-486270f34180.png" alt="c++" height="40"/>(https://www.cprogramming.com/)
-<img src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png" alt="Unity" height="40"/>(https://unity.com/)
+
+<a href="https://reactnative.dev/" rel="nofollow"> <img src="https://camo.githubusercontent.com/5c92eeb467fd5d2b1ef1c560e3c3c2f758a8d4e03a8136bda7b41a2d3d4a1b59/68747470733a2f2f72656163746e61746976652e6465762f696d672f6865616465725f6c6f676f2e737667" alt="reactnative" width="40" height="40" data-canonical-src="https://reactnative.dev/img/header_logo.svg" style="max-width: 100%;"> </a>
+<a href="https://www.typescriptlang.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://nodejs.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://www.arduino.cc/" rel="nofollow"> <img src="https://camo.githubusercontent.com/b3a1cdd20d0f308634ddd4598cdaa729c2d77047f51e66fa7206b9b4bac94c23/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61726475696e6f2d312e737667" alt="arduino" width="40" height="40" data-canonical-src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="max-width: 100%;"> </a>
+<a href="https://firebase.google.com/" rel="nofollow"> <img src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" alt="Firebase" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://www.php.net/" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="PHP" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://www.w3.org/html/" rel="nofollow"> <img src="http://assets.stickpng.com/images/5847f5bdcef1014c0b5e489c.png" alt="HTML5" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://www.javascript.com/" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="JS" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://unity.com/" rel="nofollow"> <img src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png" alt="Unity" width="40" height="40" style="max-width: 100%;"> </a>
+
 
 redux.js, express, webrtc
