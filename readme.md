@@ -8,7 +8,17 @@ Connect with me:
 
 
 Languages and Tools:
-[![React](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png)](https://reactjs.org/)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="React" height="40"/>(https://reactjs.org/)
+<img src="drawing.jpg" alt="drawing" height="40"/>
+<img src="drawing.jpg" alt="drawing" height="40"/>
+<img src="drawing.jpg" alt="drawing" height="40"/>
+<img src="drawing.jpg" alt="drawing" height="40"/>
+<img src="drawing.jpg" alt="drawing" height="40"/>
+<img src="drawing.jpg" alt="drawing" height="40"/>
+<img src="drawing.jpg" alt="drawing" height="40"/>
+<img src="drawing.jpg" alt="drawing" height="40"/>
+<img src="drawing.jpg" alt="drawing" height="40"/>
+
 [![Typescript](https://iconape.com/wp-content/png_logo_vector/typescript.png)](https://www.typescriptlang.org/)
 [![Firebase](https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png)](https://firebase.google.com/)
 [![Nodejs](https://img1.pnghut.com/15/21/24/BM3MDgP44m/text-nodejs-javascript-sign-signage.jpg)](https://nodejs.org)
