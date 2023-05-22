@@ -1,6 +1,5 @@
 Hi 👋 My name is Rune
 =====================
-
 Fullstack developer
 -------------------
 
@@ -9,6 +8,13 @@ Show your self around ;)
 * 🌍  I'm based in Denmark
 * 🖥️  See my portfolio at [Runeharlyk.dk](http://runeharlyk.dk)
 
+## Stats
+
+[![Rune Harlyk's GitHub stats](https://github-readme-stats.vercel.app/api?username=runeharlyk&theme=transparent&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=runeharlyk&ver2&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=runeharlyk&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 ### Skills
 
 <p align="left">
