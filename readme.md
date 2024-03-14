@@ -4,7 +4,7 @@
 ---------------------
 
 I'm a fullstack developer with a couple years of professional experience.
-Im currently working for [Edora A/S](https://edora.dk/) building enterprise applications using .NET, EF Core, Angular & Vue.js.
+Im currently studying Artificial Intelligence and Aata at the Technical University of Denmark while working for [Edora A/S](https://edora.dk/) building enterprise applications using .NET, EF Core, Angular & Vue.js.
 I love a challenge and to learn and apply new techniques, technologies and knowledge.
 
 Show your self around ;)
