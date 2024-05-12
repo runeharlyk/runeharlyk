@@ -18,6 +18,7 @@ Show your self around ;)
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=runeharlyk&ver2&layout=compact&theme=transparent" 
       alt="RuneHarlyk's GitHub Top Languages" />
   </a>
+  <img width="0" height="0" src="https://komarev.com/ghpvc/?username=runeharlyk&style=flat" />
 </details>
 
 <details>
