@@ -21,13 +21,6 @@ Show your self around ;)
   <img width="0" height="0" src="https://komarev.com/ghpvc/?username=runeharlyk&style=flat" />
 </details>
 
-<details>
-  <summary><h2>Wakatime Stats</h2></summary>
-  
-[![Harlyk's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=runeharlyk&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
-
 ### Skills
 
 <p align="left">
