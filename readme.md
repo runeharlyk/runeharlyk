@@ -12,11 +12,11 @@ Show your self around ;)
 * 🖥️  See my portfolio at [Runeharlyk.dk](http://runeharlyk.dk)
 
 <details open>
-  <summary><h2>GitHub Stats</h2></summary>
+  <summary><h3>GitHub Stats</h3></summary>
   <a href="https://github.com/runeharlyk" style="display:flex;justify-content:space-between">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=runeharlyk&theme=transparent&show_icons=true&count_private=true" alt="RuneHarlyk's GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=runeharlyk&ver2&layout=compact&theme=transparent" 
-      alt="RuneHarlyk's GitHub Top Languages" />
+    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=runeharlyk&ver2&layout=compact&theme=transparent" 
+      alt="RuneHarlyk's GitHub Top Languages" /> -->
   </a>
   <img width="0" height="0" src="https://komarev.com/ghpvc/?username=runeharlyk&style=flat" />
 </details>
